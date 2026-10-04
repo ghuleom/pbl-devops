@@ -1,5 +1,15 @@
 ﻿# Bonus (Step 6): External DevOps Challenge
 
+## Team
+
+| Name | PRN |
+|---|---|
+| Om Ghule | 23070122154 |
+| Dhruv Gangurde | 23070122091 |
+| Lakshya Jain | 23070122124 |
+| Aman Srivastava | 23070122024 |
+
+
 ## Challenge
 **Life After Code: The Path to Production at the Speed of Imagination** (Devpost, organised with GitLab, Google Cloud and Anthropic)
 - Link: https://gitlab-transcend.devpost.com/

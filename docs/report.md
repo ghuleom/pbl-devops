@@ -1,5 +1,15 @@
 ﻿# DevOps CA2 Report - PBL Backend (Fix My City auth API)
 
+## Team
+
+| Name | PRN |
+|---|---|
+| Om Ghule | 23070122154 |
+| Dhruv Gangurde | 23070122091 |
+| Lakshya Jain | 23070122124 |
+| Aman Srivastava | 23070122024 |
+
+
 ## 1. Architecture
 React frontend -> Node/Express API (JWT auth, bcrypt) -> MongoDB.
 The API exposes /health and /metrics (prom-client). It is containerised with Docker, deployed on Kubernetes (kind) with 3 replicas, monitored by Prometheus and Grafana, configured with Ansible and delivered by GitHub Actions.
